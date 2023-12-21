@@ -1,4 +1,3 @@
-// todo.dto.ts
 import { TodoStatus } from "./todo.schema";
 import { IsNotEmpty, IsString, IsEnum, IsOptional } from "class-validator";
 
